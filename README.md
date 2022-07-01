@@ -10,7 +10,7 @@ exibi-las de forma organizada no excel. Tudo de maneira automática.
 estão compactados em no máximo dois arquivos zip por dia. Por isso são mais práticos que arquivos pdf
 
 2- Os arquivos xml são de fácil acesso por meio da plataforma do governo "inlabs" https://inlabs.in.gov.br, 
-que necessita de uma conta para o acesso
+**que necessita de uma conta para o acesso que deve ser criada antes de usar o programa**
 
 3- O projeto foi feito em python e inclui as seguintes bibliotecas:
 
