@@ -33,9 +33,9 @@ Acessar a pasta do inlabs do dia útil anterior por meio da url padronizada
 
 Baixar os arquivos que contém o diário oficial com os atos legislativos e os atos extras "DO1.zip" e "DO1E.zip"
 
-extrair os arquivos .zip, que contém arquivos xml de todas as leis do dia
+Extrair os arquivos .zip, que contém arquivos xml de todas as leis do dia
 
-organizar as informações já separadas nos arquivos xml e as informações filtradas em um documento excel, preenchendo campos não encontrados com "Não Encontrado"
+Organizar as informações já separadas nos arquivos xml e as informações filtradas em um documento excel, preenchendo campos não encontrados com "Não Encontrado"
 
 # DOWNLOADS NECESSÁRIOS PARA O FUNCIONAMENTO DO PROJETO:
 python 3.10 -https://www.python.org/downloads/
